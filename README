@@ -3,3 +3,5 @@ algorithms on the website.
 
 See http://snowball.tartarus.org/ for more details.
 
+This is a fork of the upstream repository at https://github.com/snowballstem/snowball and includes modification to the makefile for creating libstemmer shared library.
+
